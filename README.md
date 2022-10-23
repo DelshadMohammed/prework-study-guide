@@ -3,12 +3,7 @@
 
 ## Description
 
-Provide a short description explaining the what, why, and how of your project. Use the following questions as a guide:
-
-- What was your motivation?
-- Why did you build this project? (Note: the answer is not "Because it was a homework assignment.")
-- What problem does it solve?
-- What did you learn?
+The project got me aquatinted to the basics and concepts of understanding the languages in programming. This project was built in order for me to understand some of the fundamentals which I will be using in my course. Problems I solved in relation to coding were the concepts of flow and logic. I learnt how important the Git and Git Hub is to managing and tracking my changes in my work. 
 
 
 
